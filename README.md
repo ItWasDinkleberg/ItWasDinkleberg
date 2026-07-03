@@ -26,7 +26,7 @@ Operating out of Devils Lake, ND. I architect and rapidly deploy software utiliz
   <img src="https://img.shields.io/badge/OpenHands-000000?style=for-the-badge&logo=github&logoColor=white" alt="OpenHands Badge" />
 </div>
 
-### 📊 `TELEMETRY_DATA`
+### ⚔️ `RS3_TELEMETRY.sh`
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItWasDinkleberg&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="rs3_stats.svg" alt="shoote45 Live RS3 Stats" />
 </div>
