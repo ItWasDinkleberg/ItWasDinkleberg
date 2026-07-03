@@ -28,5 +28,5 @@ Operating out of Devils Lake, ND. I architect and rapidly deploy software utiliz
 
 ### 📊 `TELEMETRY_DATA`
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItWasDinkleberg&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
