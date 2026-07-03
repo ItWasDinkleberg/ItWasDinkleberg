@@ -1,43 +1,74 @@
-<svg width="500" height="380" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="420" xmlns="http://www.w3.org/2000/svg">
 <style>
-  .bg { fill: #0d1117; stroke: #30363d; stroke-width: 2; rx: 8; ry: 8; }
-  .hdr { font-family: Courier, monospace; font-size: 16px; fill: #3fb950; font-weight: bold; }
-  .txt { font-family: Courier, monospace; font-size: 13px; fill: #8b949e; }
-  .val { fill: #c9d1d9; font-weight: bold; }
+  .bg { fill: #382A1D; stroke: #554533; stroke-width: 4; rx: 6; ry: 6; }
+  .inner { fill: #291E13; stroke: #110C08; stroke-width: 2; rx: 4; ry: 4; }
+  .title { font-family: "Georgia", serif; font-size: 20px; fill: #FF981F; font-weight: bold; text-shadow: 2px 2px 0px #000; }
+  .txt { font-family: "Arial", sans-serif; font-size: 14px; fill: #E8D8A0; text-shadow: 1px 1px 0px #000; }
+  .val { fill: #FFD900; font-weight: bold; }
+  .emoji { font-size: 16px; }
 </style>
 <rect class="bg" width="100%" height="100%" />
-<text x="20" y="30" class="hdr">&gt; RS3_UPLINK --target shoote45</text>
-<text x="20" y="50" class="hdr" fill="#00ff00">&gt; STATUS: ALIVE</text>
-<line x1="20" y1="65" x2="480" y2="65" stroke="#30363d" stroke-width="1" />
-<text x="20" y="95" class="txt">ATTA: <tspan class="val">99</tspan></text>
-<text x="135" y="95" class="txt">DEFE: <tspan class="val">99</tspan></text>
-<text x="250" y="95" class="txt">STRE: <tspan class="val">99</tspan></text>
-<text x="365" y="95" class="txt">CONS: <tspan class="val">99</tspan></text>
-<text x="20" y="120" class="txt">RANG: <tspan class="val">84</tspan></text>
-<text x="135" y="120" class="txt">PRAY: <tspan class="val">92</tspan></text>
-<text x="250" y="120" class="txt">MAGI: <tspan class="val">100</tspan></text>
-<text x="365" y="120" class="txt">COOK: <tspan class="val">80</tspan></text>
-<text x="20" y="145" class="txt">WOOD: <tspan class="val">76</tspan></text>
-<text x="135" y="145" class="txt">FLET: <tspan class="val">93</tspan></text>
-<text x="250" y="145" class="txt">FISH: <tspan class="val">64</tspan></text>
-<text x="365" y="145" class="txt">FIRE: <tspan class="val">64</tspan></text>
-<text x="20" y="170" class="txt">CRAF: <tspan class="val">63</tspan></text>
-<text x="135" y="170" class="txt">SMIT: <tspan class="val">80</tspan></text>
-<text x="250" y="170" class="txt">MINI: <tspan class="val">64</tspan></text>
-<text x="365" y="170" class="txt">HERB: <tspan class="val">97</tspan></text>
-<text x="20" y="195" class="txt">AGIL: <tspan class="val">71</tspan></text>
-<text x="135" y="195" class="txt">THIE: <tspan class="val">66</tspan></text>
-<text x="250" y="195" class="txt">SLAY: <tspan class="val">87</tspan></text>
-<text x="365" y="195" class="txt">FARM: <tspan class="val">34</tspan></text>
-<text x="20" y="220" class="txt">RUNE: <tspan class="val">53</tspan></text>
-<text x="135" y="220" class="txt">HUNT: <tspan class="val">52</tspan></text>
-<text x="250" y="220" class="txt">CONS: <tspan class="val">36</tspan></text>
-<text x="365" y="220" class="txt">SUMM: <tspan class="val">47</tspan></text>
-<text x="20" y="245" class="txt">DUNG: <tspan class="val">83</tspan></text>
-<text x="135" y="245" class="txt">DIVI: <tspan class="val">49</tspan></text>
-<text x="250" y="245" class="txt">INVE: <tspan class="val">1</tspan></text>
-<text x="365" y="245" class="txt">ARCH: <tspan class="val">19</tspan></text>
-<text x="20" y="270" class="txt">NECR: <tspan class="val">3</tspan></text>
-<line x1="20" y1="280" x2="480" y2="280" stroke="#30363d" stroke-width="1" />
-<text x="20" y="305" class="hdr" fill="#58a6ff">&gt; SYS.TOTAL_LVL : 1954</text>
+<rect class="inner" x="10" y="50" width="480" height="355" />
+<text x="250" y="32" class="title" text-anchor="middle">Live Stats for shoote45</text>
+<text x="25" y="80" class="emoji">⚔️</text>
+<text x="50" y="78" class="txt">ATTA: <tspan class="val">99</tspan></text>
+<text x="140" y="80" class="emoji">🛡️</text>
+<text x="165" y="78" class="txt">DEFE: <tspan class="val">99</tspan></text>
+<text x="255" y="80" class="emoji">💪</text>
+<text x="280" y="78" class="txt">STRE: <tspan class="val">99</tspan></text>
+<text x="370" y="80" class="emoji">❤️</text>
+<text x="395" y="78" class="txt">CONS: <tspan class="val">99</tspan></text>
+<text x="25" y="113" class="emoji">🏹</text>
+<text x="50" y="111" class="txt">RANG: <tspan class="val">84</tspan></text>
+<text x="140" y="113" class="emoji">🙏</text>
+<text x="165" y="111" class="txt">PRAY: <tspan class="val">92</tspan></text>
+<text x="255" y="113" class="emoji">🔮</text>
+<text x="280" y="111" class="txt">MAGI: <tspan class="val">100</tspan></text>
+<text x="370" y="113" class="emoji">🍳</text>
+<text x="395" y="111" class="txt">COOK: <tspan class="val">80</tspan></text>
+<text x="25" y="146" class="emoji">🪓</text>
+<text x="50" y="144" class="txt">WOOD: <tspan class="val">76</tspan></text>
+<text x="140" y="146" class="emoji">🪶</text>
+<text x="165" y="144" class="txt">FLET: <tspan class="val">93</tspan></text>
+<text x="255" y="146" class="emoji">🎣</text>
+<text x="280" y="144" class="txt">FISH: <tspan class="val">64</tspan></text>
+<text x="370" y="146" class="emoji">🔥</text>
+<text x="395" y="144" class="txt">FIRE: <tspan class="val">64</tspan></text>
+<text x="25" y="179" class="emoji">🧵</text>
+<text x="50" y="177" class="txt">CRAF: <tspan class="val">63</tspan></text>
+<text x="140" y="179" class="emoji">🔨</text>
+<text x="165" y="177" class="txt">SMIT: <tspan class="val">80</tspan></text>
+<text x="255" y="179" class="emoji">⛏️</text>
+<text x="280" y="177" class="txt">MINI: <tspan class="val">64</tspan></text>
+<text x="370" y="179" class="emoji">🧪</text>
+<text x="395" y="177" class="txt">HERB: <tspan class="val">97</tspan></text>
+<text x="25" y="212" class="emoji">🏃</text>
+<text x="50" y="210" class="txt">AGIL: <tspan class="val">71</tspan></text>
+<text x="140" y="212" class="emoji">🥷</text>
+<text x="165" y="210" class="txt">THIE: <tspan class="val">66</tspan></text>
+<text x="255" y="212" class="emoji">💀</text>
+<text x="280" y="210" class="txt">SLAY: <tspan class="val">87</tspan></text>
+<text x="370" y="212" class="emoji">🌾</text>
+<text x="395" y="210" class="txt">FARM: <tspan class="val">34</tspan></text>
+<text x="25" y="245" class="emoji">🪨</text>
+<text x="50" y="243" class="txt">RUNE: <tspan class="val">53</tspan></text>
+<text x="140" y="245" class="emoji">🐾</text>
+<text x="165" y="243" class="txt">HUNT: <tspan class="val">52</tspan></text>
+<text x="255" y="245" class="emoji">🏗️</text>
+<text x="280" y="243" class="txt">CONS: <tspan class="val">36</tspan></text>
+<text x="370" y="245" class="emoji">🐺</text>
+<text x="395" y="243" class="txt">SUMM: <tspan class="val">47</tspan></text>
+<text x="25" y="278" class="emoji">🗝️</text>
+<text x="50" y="276" class="txt">DUNG: <tspan class="val">83</tspan></text>
+<text x="140" y="278" class="emoji">👁️</text>
+<text x="165" y="276" class="txt">DIVI: <tspan class="val">49</tspan></text>
+<text x="255" y="278" class="emoji">⚙️</text>
+<text x="280" y="276" class="txt">INVE: <tspan class="val">1</tspan></text>
+<text x="370" y="278" class="emoji">🏺</text>
+<text x="395" y="276" class="txt">ARCH: <tspan class="val">19</tspan></text>
+<text x="25" y="311" class="emoji">👻</text>
+<text x="50" y="309" class="txt">NECR: <tspan class="val">3</tspan></text>
+<line x1="15" y1="326" x2="485" y2="326" stroke="#110C08" stroke-width="2" />
+<line x1="15" y1="328" x2="485" y2="328" stroke="#554533" stroke-width="1" />
+<text x="250" y="351" class="title" text-anchor="middle" fill="#FFD900">Total Level: 1954</text>
 </svg>
