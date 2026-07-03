@@ -70,5 +70,5 @@
 <text x="50" y="309" class="txt">NECR: <tspan class="val">3</tspan></text>
 <line x1="15" y1="326" x2="485" y2="326" stroke="#110C08" stroke-width="2" />
 <line x1="15" y1="328" x2="485" y2="328" stroke="#554533" stroke-width="1" />
-<text x="250" y="351" class="title" text-anchor="middle" fill="#FFD900">Total Level: 1954</text>
+<text x="250" y="371" class="title" text-anchor="middle" fill="#FFD900">Total Level: 1954</text>
 </svg>
