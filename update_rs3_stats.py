@@ -53,7 +53,7 @@ def draw_svg(stats):
         # Draw the backgrounds
         '<rect class="bg" width="100%" height="100%" />',
         '<rect class="inner" x="10" y="50" width="480" height="355" />',
-        f'<text x="250" y="32" class="title" text-anchor="middle">Live Stats for {USERNAME}</text>'
+        f'<text x="250" y="32" class="title" text-anchor="middle">Live Runescape Stats for {USERNAME}</text>'
     ]
     
     # Generate the grid array 
