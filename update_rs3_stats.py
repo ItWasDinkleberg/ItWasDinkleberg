@@ -83,7 +83,9 @@ def draw_svg(stats):
     total_y = y_start + (row * row_height) + 15
     svg.append(f'<line x1="15" y1="{total_y}" x2="485" y2="{total_y}" stroke="#110C08" stroke-width="2" />')
     svg.append(f'<line x1="15" y1="{total_y + 2}" x2="485" y2="{total_y + 2}" stroke="#554533" stroke-width="1" />')
-    svg.append(f'<text x="250" y="{total_y + 25}" class="title" text-anchor="middle" fill="#FFD900">Total Level: {total}</text>')
+    
+    # Pushed y from +25 to +45 to center it vertically in the lower panel
+    svg.append(f'<text x="250" y="{total_y + 45}" class="title" text-anchor="middle" fill="#FFD900">Total Level: {total}</text>')
     
     svg.append('</svg>')
     
