@@ -1,0 +1,26 @@
+name: RS3 Stats Uplink
+on:
+schedule:
+# Runs at midnight UTC every day automatically
+- cron: '0 0 * * *'
+workflow_dispatch:
+# Allows you to manually click a "Run" button on GitHub to test it
+jobs:
+update-stats:
+runs-on: ubuntu-latest
+steps:
+- name: Checkout Codebase
+uses: actions/checkout@v3
+- name: Initialize Python Environment
+uses: actions/setup-python@v4
+with:
+python-version: '3.10'
+- name: Execute Telemetry Uplink
+run: python update_rs3_stats.py
+- name: Commit Graphic to Repository
+run: |
+git config --global user.name "github-actions[bot]"
+git config --global user.email "github-actions[bot]@users.noreply.github.com"
+git add rs3_stats.svg
+git commit -m "Automated RS3 stat update" || exit 0
+git push
