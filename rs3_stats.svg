@@ -37,9 +37,9 @@
 <text x="25" y="179" class="emoji">🧵</text>
 <text x="50" y="177" class="txt">CRAF: <tspan class="val">63</tspan></text>
 <text x="140" y="179" class="emoji">🔨</text>
-<text x="165" y="177" class="txt">SMIT: <tspan class="val">81</tspan></text>
+<text x="165" y="177" class="txt">SMIT: <tspan class="val">82</tspan></text>
 <text x="255" y="179" class="emoji">⛏️</text>
-<text x="280" y="177" class="txt">MINI: <tspan class="val">64</tspan></text>
+<text x="280" y="177" class="txt">MINI: <tspan class="val">65</tspan></text>
 <text x="370" y="179" class="emoji">🧪</text>
 <text x="395" y="177" class="txt">HERB: <tspan class="val">97</tspan></text>
 <text x="25" y="212" class="emoji">🏃</text>
@@ -70,5 +70,5 @@
 <text x="50" y="309" class="txt">NECR: <tspan class="val">3</tspan></text>
 <line x1="15" y1="326" x2="485" y2="326" stroke="#110C08" stroke-width="2" />
 <line x1="15" y1="328" x2="485" y2="328" stroke="#554533" stroke-width="1" />
-<text x="250" y="371" class="title" text-anchor="middle" fill="#FFD900">Total Level: 1955</text>
+<text x="250" y="371" class="title" text-anchor="middle" fill="#FFD900">Total Level: 1957</text>
 </svg>
