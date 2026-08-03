@@ -1,7 +1,7 @@
 import urllib.request
 import os
 
-USERNAME = "shoote45"
+USERNAME = "ItWasDinkle"
 API_URL = f"https://secure.runescape.com/m=hiscore/index_lite.ws?player={USERNAME}"
 
 # Map exact RS3 Skills to Emojis to bypass GitHub SVG image blocking
