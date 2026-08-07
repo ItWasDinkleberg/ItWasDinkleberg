@@ -47,7 +47,7 @@
 <text x="140" y="212" class="emoji">🥷</text>
 <text x="165" y="210" class="txt">THIE: <tspan class="val">66</tspan></text>
 <text x="255" y="212" class="emoji">💀</text>
-<text x="280" y="210" class="txt">SLAY: <tspan class="val">87</tspan></text>
+<text x="280" y="210" class="txt">SLAY: <tspan class="val">88</tspan></text>
 <text x="370" y="212" class="emoji">🌾</text>
 <text x="395" y="210" class="txt">FARM: <tspan class="val">34</tspan></text>
 <text x="25" y="245" class="emoji">🪨</text>
@@ -57,7 +57,7 @@
 <text x="255" y="245" class="emoji">🏗️</text>
 <text x="280" y="243" class="txt">CONS: <tspan class="val">36</tspan></text>
 <text x="370" y="245" class="emoji">🐺</text>
-<text x="395" y="243" class="txt">SUMM: <tspan class="val">48</tspan></text>
+<text x="395" y="243" class="txt">SUMM: <tspan class="val">49</tspan></text>
 <text x="25" y="278" class="emoji">🗝️</text>
 <text x="50" y="276" class="txt">DUNG: <tspan class="val">83</tspan></text>
 <text x="140" y="278" class="emoji">👁️</text>
@@ -67,8 +67,8 @@
 <text x="370" y="278" class="emoji">🏺</text>
 <text x="395" y="276" class="txt">ARCH: <tspan class="val">19</tspan></text>
 <text x="25" y="311" class="emoji">👻</text>
-<text x="50" y="309" class="txt">NECR: <tspan class="val">82</tspan></text>
+<text x="50" y="309" class="txt">NECR: <tspan class="val">83</tspan></text>
 <line x1="15" y1="326" x2="485" y2="326" stroke="#110C08" stroke-width="2" />
 <line x1="15" y1="328" x2="485" y2="328" stroke="#554533" stroke-width="1" />
-<text x="250" y="371" class="title" text-anchor="middle" fill="#FFD900">Total Level: 2062</text>
+<text x="250" y="371" class="title" text-anchor="middle" fill="#FFD900">Total Level: 2065</text>
 </svg>
