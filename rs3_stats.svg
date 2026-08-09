@@ -11,7 +11,7 @@
 <rect class="inner" x="10" y="50" width="480" height="355" />
 <text x="250" y="32" class="title" text-anchor="middle">Live Runescape Stats for ItWasDinkle</text>
 <text x="25" y="80" class="emoji">⚔️</text>
-<text x="50" y="78" class="txt">ATTA: <tspan class="val">99</tspan></text>
+<text x="50" y="78" class="txt">ATTA: <tspan class="val">100</tspan></text>
 <text x="140" y="80" class="emoji">🛡️</text>
 <text x="165" y="78" class="txt">DEFE: <tspan class="val">99</tspan></text>
 <text x="255" y="80" class="emoji">💪</text>
@@ -57,7 +57,7 @@
 <text x="255" y="245" class="emoji">🏗️</text>
 <text x="280" y="243" class="txt">CONS: <tspan class="val">36</tspan></text>
 <text x="370" y="245" class="emoji">🐺</text>
-<text x="395" y="243" class="txt">SUMM: <tspan class="val">50</tspan></text>
+<text x="395" y="243" class="txt">SUMM: <tspan class="val">51</tspan></text>
 <text x="25" y="278" class="emoji">🗝️</text>
 <text x="50" y="276" class="txt">DUNG: <tspan class="val">83</tspan></text>
 <text x="140" y="278" class="emoji">👁️</text>
@@ -70,5 +70,5 @@
 <text x="50" y="309" class="txt">NECR: <tspan class="val">83</tspan></text>
 <line x1="15" y1="326" x2="485" y2="326" stroke="#110C08" stroke-width="2" />
 <line x1="15" y1="328" x2="485" y2="328" stroke="#554533" stroke-width="1" />
-<text x="250" y="371" class="title" text-anchor="middle" fill="#FFD900">Total Level: 2066</text>
+<text x="250" y="371" class="title" text-anchor="middle" fill="#FFD900">Total Level: 2068</text>
 </svg>
